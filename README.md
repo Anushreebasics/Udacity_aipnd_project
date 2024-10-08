@@ -1,4 +1,4 @@
-# image-classifier-aipnd
+### Deep Learning Project: Flower Species Image Classifier
 Image Classifier Project for AI Programming with Python Nanodegree (Udacity)
 
 ## Example Commands
